@@ -1,0 +1,32 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 200px 50px;
+    background-color: rgb(196, 223, 223);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+
+.second-line {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    color: beige;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.box1 {
+    text-align: auto;
+    font-size: 20px;
+}
+
+.box2 {
+    text-align: auto;
+    font-size: 20px;
+}
